@@ -2,15 +2,14 @@
 ### Date created
 October 12th
 
-### Bikeshare Data Analysis Project
-
+## Bikeshare Data Analysis Project
 
 ### Description
 Bikeshare data analysis of 3 cities was carried out to uncover bike share usage patterns. We have compared the system usage between 3 cities: Chicago, New York City, and Washington, DC.
 
 Python and its libraries (Panda Dataframe and Time module) were used for the analysis.
 
-# Statistics shown
+The analysis answers the following questions:
 
 -The most pouplar month
 -The most popular day of week
@@ -30,4 +29,4 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
-# The Project was completed with the knowledge that i attained from the Udacity Nanodegree and Python Documentation
+### The Project was completed with the knowledge that i attained from the Udacity Nanodegree and Python Documentation
