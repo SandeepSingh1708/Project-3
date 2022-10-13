@@ -12,7 +12,7 @@ weekday=['monday','tuesday','wednesday','thursday','friday','saturday','sunday',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Ask user to specify a city, month, and day to analyze.
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid 
