@@ -18,7 +18,7 @@ The analysis answers the following questions:
 -The most frequent Start to End Station combination.
 -The total travel time and average travel time
 -The counts of user types and gender.
--The earliest, most recent and most common birth year.
+-Displays earliest, most recent, and most common year of birth.
 -The first five individual trip data, Later, based on user needs additional 5 records were been shown and so on.
 
 ### Files used
@@ -29,4 +29,4 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
-### The Project was completed with the knowledge that i attained from the Udacity Nanodegree and Python Documentation
+##### The Project was completed with the knowledge that i attained from the Udacity Nanodegree and Python Documentation
