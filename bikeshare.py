@@ -160,7 +160,7 @@ def user_stats(df):
         print('The Gender count: ',gender_count)
         
     except Exception as err:
-        print('Washington state has no gender,the error is {} '.format(err))
+        print('Washington state lacks gender user data,the error is {} '.format(err))
 
     # TO DO: Display earliest, most recent, and most common year of birth
     try:   
@@ -172,7 +172,7 @@ def user_stats(df):
         print('The most common DOB: ',most_dob)
         
     except Exception as err:
-        print('Washington state has no Birthyear,the error is {} '.format(err))
+        print('Washington state has no Birth year,the error is {} '.format(err))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
