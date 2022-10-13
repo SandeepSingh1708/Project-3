@@ -179,6 +179,8 @@ def user_stats(df):
 
 
 def raw_data(df):
+    """Displays first 5 row data, and based on user request show additional
+    5 rows of data and so on."""
     data= input( 'Does user want to see 5 rows of data? Enter yes or no').lower()
     x=0
     while data=='yes':
